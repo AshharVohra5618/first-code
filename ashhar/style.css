@@ -1,0 +1,26 @@
+ol{
+    background-color: aqua;
+
+}
+
+select{
+    background-color: aqua;
+}
+ul li{
+    display: inline;
+    padding: 5px;
+    margin: opx opx;
+
+}
+h2{
+    color: blanchedalmond;
+    background-color: yellowgreen;
+    text-align: center;
+    border: 1px solid red;
+    padding: 10px;
+    display: inline-block;
+    margin: auto;
+    width: 50%;
+
+}
+
